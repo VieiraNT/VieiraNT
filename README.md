@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Vieira 🧑🏻‍💻
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0RcFdAqqQtyjetLz7Yhkow)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eodioguin/)
-[![Twitch](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Dioguin#9137)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI7lvSqnOZxVP0scf1oFfyg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sVieira.lua/)
+[![Twitch](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Vieira#0969)
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=VieirinhaDev&show_icons=true&theme=dracula&count_private=false)
+![Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=VieirinhaDev&show_icons=true&theme=dracula&count_private=false)
 
 ## 🚀 | Tecnologias que eu uso no meu dia a dia
 
