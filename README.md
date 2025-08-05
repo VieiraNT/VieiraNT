@@ -9,7 +9,7 @@ Tudo o que aprendi até hoje foi por conta própria: estudando códigos open-sou
 ## 🚀 Stack e habilidades
 
 - 💙 **Linguagem favorita:** TypeScript
-- 🌐 **Web:** React, Next.js, JavaScript, TypeScript, PHP (básico)
+- 🌐 **Web:** React, Next.js, JavaScript, TypeScript
 - 🔧 **Backend:** APIs REST, microserviços, workers, sistemas distribuídos
 - 🛠️ **Infraestrutura:** 
   - Linux (gerenciamento de servidores)
