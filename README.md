@@ -5,7 +5,7 @@
 
 🎮 Minha história na programação começou com uma paixão por jogos — e desde então, não parei mais de codar.
 
-📚 Atualmente tenho 19 anos e programo desde os 15, acumulando 4 anos de experiência prática.
+📚 Atualmente tenho 19 anos e programo desde os 14, acumulando 5 anos de experiência prática.
 
 🚀 Também convido você a visitar meu portfólio: <a href="https://edemilson.dev">edemilson.dev</a> lá você pode ver meus trabalhos, projetos em andamento e mais sobre minha trajetória.
 
